@@ -21,8 +21,6 @@ Author
 Price
 Available or not
 
-A user can:
-
 Borrow a book
 Return a book
 View book details
